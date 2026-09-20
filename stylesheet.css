@@ -21,7 +21,7 @@ body
 	font-size: 24px;
 	font-style: italic;
 	font-weight: bold;
-	color: #90200A;
+	color: #CD9A8C;
 }
 .darktitle
 {
@@ -90,7 +90,7 @@ ol ol ol li	{
 	padding: 4px 3px 4px 8px;
 	background-color: white;
 	/*color: #003366;*/
-	color: #90200A;
+	color: #CD9A8C;
 	text-decoration: none;
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: normal;
@@ -99,7 +99,7 @@ ol ol ol li	{
 #menu a:hover
 {
 	color: #ffffff;
-	background-color: #90200A;
+	background-color: #CD9A8C;
 	text-decoration: none;
 }
 #topmenu
@@ -112,10 +112,10 @@ ol ol ol li	{
 }
 #topmenu a:link, #topmenu a:visited
 {
-	color: #90200A;
+	color: #CD9A8C;
     text-decoration: none;
     background-color: white; 
-	border: 1px solid #90200A;
+	border: 1px solid #CD9A8C;
 	padding-top: .3em;
 	padding-bottom: .3em;
 	padding-left: .8em;
@@ -124,8 +124,8 @@ ol ol ol li	{
 #topmenu a:hover
 {
 	color: #ffffff;
-	background-color: #90200A; 
-	border: 1px solid #90200A;
+	background-color: #CD9A8C; 
+	border: 1px solid #CD9A8C;
     text-decoration: none;
 	padding-top: .3em;
 	padding-bottom: .3em;
@@ -160,7 +160,7 @@ ol ol ol li	{
 a:link
 {
 	/*color: #003366;*/
-	color: #90200A;
+	color: #CD9A8C;
 	font-weight: bold;
 	/*border-bottom: 1px solid #efefef;*/
 	/*border-bottom: 1px solid black;*/
@@ -169,7 +169,7 @@ a:link
 }
 a:visited
 {
-	color: #90200A;
+	color: #CD9A8C;
 	font-weight: bold;
 	/*border-bottom: 1px solid #efefef;*/
 	/*border-bottom: 1px solid black;*/
@@ -179,7 +179,7 @@ a:visited
 a:hover
 {
 	color: #ffffff;
-	background-color: #90200A;
+	background-color: #CD9A8C;
 	text-decoration: none;
 	font-weight: bold;
 }
